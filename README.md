@@ -7,6 +7,7 @@
     - linear models : linear regression, using Ridge and Lasso regularization, <br>
     - non linear : Support Vector Machines, <br>
     - and decision tree models : Random Forest, XGBoost, GradientBoostingRegressor <br>
+* After a model was chosen based on R² and RMSE metrics, an optimization of the hyper parameters was performed using cross validation.
 
 <br>
 
